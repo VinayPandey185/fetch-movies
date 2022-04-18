@@ -1,0 +1,19 @@
+.cloumn1 {
+    float: left;
+    margin: 10px;
+    display: block;
+    position: relative;
+}
+
+.cloumn2 {
+    margin: 20px;
+    position: relative;
+}
+
+.Ratings span {
+    color: green;
+}
+
+.Error {
+    color: red;
+}

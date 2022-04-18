@@ -1,0 +1,29 @@
+/*
+.SearchMovieForm {
+    
+    display: flex;
+    flex-direction: column;
+
+}
+*/
+.SearchMovieForm input {
+    width: 400px;
+    height: 20px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-size: 20px;
+}
+
+.SearchMovieForm button {
+    font-size: 20px;
+    width: 100px;
+    height: 46px;
+    padding: 9px;
+    align-items: right;
+    margin: 5px;
+}
+
+.showAll {
+    width: auto !important;
+}
